@@ -23,7 +23,7 @@ export default function Header() {
   return (
     <header className="border-b">
       <div className="container mx-auto p-4 flex justify-between items-center">
-        <h1 className="text-xl font-bold">Md Dilshad Akram</h1>
+        
         <p>for QuadB tech</p>
         <div className="flex items-center gap-4">
           <Button variant="ghost" size="icon" onClick={toggleTheme} aria-label="Toggle theme">
